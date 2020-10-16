@@ -1,0 +1,7 @@
+1.  Gru  (Put Gru's image in the third td)
+2.  Agnes  (Put Agnes' image in the third td)
+3.  Bob (Put Bob's image in the third td)
+4.  Kyle (Put Kyle's image in the third td)
+
+
+REMEMBER : Make all the images of the table the same size, give them a rounded border and change their    
